@@ -1,6 +1,4 @@
-
-
-def calculate_area(c):
+def calculate_area(c) -> float:
 
     '''
     Calculates the area of any quadrilateral
